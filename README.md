@@ -30,6 +30,8 @@
 
 ### First create a database "blog" then
 
+### npm install
+
 ### npm run seed
 
 ### npm run dev
