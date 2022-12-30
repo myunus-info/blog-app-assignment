@@ -6,7 +6,7 @@ Npm v8.3.0
 MySql (Sequelize)
 Visual Studio Code
 
-# Environment Variables for Local Development
+## Environment Variables for Local Development
 
 PORT=<value>
 DB_NAME=<value>
