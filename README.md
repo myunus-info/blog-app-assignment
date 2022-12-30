@@ -1,4 +1,4 @@
-# Project Setup
+## Project Setup
 
 Git
 Node.js v18.7.0
@@ -17,7 +17,6 @@ JWT_SECRET=<value>
 JWT_EXPIRES=<value>
 
 # NPM Scripts
-
 First create a database "blog" then
 npm run seed
 npm run dev
