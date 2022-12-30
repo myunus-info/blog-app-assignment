@@ -25,5 +25,8 @@
     "passport-jwt": "^4.0.1",
     "sequelize": "^6.28.0",
     "yup": "^0.32.11"
+  },
+  "engines": {
+    "node": ">=14.0.0"
   }
 }
