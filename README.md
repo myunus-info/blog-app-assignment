@@ -27,15 +27,9 @@
 ### JWT_EXPIRES=<value>
 
 # NPM Scripts
-<<<<<<< HEAD
 
 ### First create a database "blog" then
 
 ### npm run seed
 
 ### npm run dev
-=======
-First create a database "blog" then
-npm run seed
-npm run dev
->>>>>>> 7a9e4e105ea317ec439c72b43c4d21c57f95095b
